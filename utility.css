@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+.align-centre{
+    align-items: center;
+}
+.justify-centre{
+    justify-content: center;
+}
+.border{
+    border: 2px solid red;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+.rounded{
+    border-radius: 8px;
+}
+.bg-gray{
+    background-color: #212121;
+}
